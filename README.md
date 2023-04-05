@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 Hi there! My name is Sebastian, and I'm a passionate IT and programming enthusiast. I have always been fascinated by the power of technology to solve complex problems and I love exploring the latest developments in the field of IT.
 
-![image](https://user-images.githubusercontent.com/124912079/230068847-9f008631-de6b-4904-9548-f0331c5552b3.png)
 
+
+![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6](https://user-images.githubusercontent.com/124912079/230069125-fe610864-a738-4782-a946-4d12befd4efd.gif)
